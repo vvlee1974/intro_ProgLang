@@ -1,0 +1,15 @@
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\bin\Debug\net6.0\Task7_IntroProgramming.exe
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\bin\Debug\net6.0\Task7_IntroProgramming.deps.json
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\bin\Debug\net6.0\Task7_IntroProgramming.runtimeconfig.json
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\bin\Debug\net6.0\Task7_IntroProgramming.dll
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\bin\Debug\net6.0\Task7_IntroProgramming.pdb
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.csproj.AssemblyReference.cache
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.AssemblyInfoInputs.cache
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.AssemblyInfo.cs
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.csproj.CoreCompileInputs.cache
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.dll
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\refint\Task7_IntroProgramming.dll
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.pdb
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\Task7_IntroProgramming.genruntimeconfig.cache
+C:\Users\vvlee\Моя учёба_GeekBrans\Введение в языки программирования\Семинары\intro_ProgLang\Task7_IntroProgramming\obj\Debug\net6.0\ref\Task7_IntroProgramming.dll
